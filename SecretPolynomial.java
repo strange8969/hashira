@@ -7,12 +7,7 @@ import java.math.BigInteger;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
-/**
- * Shamir's Secret Sharing Decoder
- * 
- * This program implements Lagrange interpolation to reconstruct a secret
- * from a set of polynomial shares encoded in different number bases.
- */
+
 public class SecretPolynomial {
 
     public static void main(String[] args) throws Exception {
